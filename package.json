@@ -1,5 +1,5 @@
 {
-  "name": "nodetempate",
+  "name": "nodetmp",
   "version": "1.0.0",
   "description": "An alternative to ejs",
   "main": "index.js",
@@ -11,5 +11,9 @@
     "url": "https://github.com/suraj0901/nodetemplate"
   },
   "type": "module",
-  "keywords": []
+  "keywords": [
+    "templating engine",
+    "node",
+    "ejs"
+  ]
 }

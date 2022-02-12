@@ -1,5 +1,5 @@
-import { readFile, writeFile } from "./astCompiler/handleFile.js";
-import { Modifier } from "./astCompiler/modify.js";
+import { readFile, writeFile } from "./src/astCompiler/handleFile.js";
+import { Modifier } from "./src/astCompiler/modify.js";
 
 export function compile(inputPath, dataObj) {
   const [file, err] = readFile(inputPath);
