@@ -1,4 +1,4 @@
-# nodetemplate
+# nodetemp
 
 An alternative to ejs.
 
@@ -13,7 +13,7 @@ npm i nodetemplate
 ## Usage
 
 ```js
-import { compile } from 'nodetemplate'
+import { compile } from 'nodetemp'
  
 const output = compile(pathOfInputFile, dataObje)
 
