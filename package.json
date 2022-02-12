@@ -1,10 +1,15 @@
 {
   "name": "nodetempate",
   "version": "1.0.0",
-  "description": "",
+  "description": "An alternative to ejs",
   "main": "index.js",
+  "private": false,
+  "author": "Suraj Jha",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suraj0901/nodetemplate"
+  },
   "type": "module",
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": []
 }
