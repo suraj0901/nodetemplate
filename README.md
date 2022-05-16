@@ -1,17 +1,17 @@
-# nodetemp
+# nodetmp
 
 An alternative to ejs.
 
 ## Installation
 
 ```bash
-npm i nodetemp
+npm i nodetmp
 ```
 
 ## Usage
 
 ```js
-import { compile } from "nodetemp";
+import { compile } from "nodetmp";
 
 const output = compile(pathOfInputFile, dataObje);
 
